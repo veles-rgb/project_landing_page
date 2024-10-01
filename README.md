@@ -7,4 +7,4 @@ This is the "Project landing Page" for [The Odin Project](https://www.theodinpro
 The fake product this landing page is built for is the Daily Excuse Generator (not a real product).
 
 ## Credits / Sources
-TBD
+- Logo Created with [Hatchful by Shopify](https://www.shopify.com/tools/logo-maker)
